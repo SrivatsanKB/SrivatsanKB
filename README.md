@@ -1,6 +1,6 @@
 # SRIVATSAN K B
-
-## About Me
+## Hi all 👋
+## About Me 
 I am a passionate and aspiring data scientist with a strong background in mathematics and programming. I enjoy exploring and extracting insights from complex datasets to drive informed decision-making. My goal is to leverage my skills in data analysis, machine learning, and visualization to solve real-world problems and contribute to the field of data science.
 
 ## Skills
